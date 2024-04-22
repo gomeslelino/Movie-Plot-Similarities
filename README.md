@@ -86,7 +86,6 @@ A function was created called get_similar_movies( ), which returns a list of the
 > new: 0.1596<br>
 > save: 0.1304<br>
 
-
 ## Conclusion
 
 This project showcases the application of natural language processing to analyze and visualize movie plot summaries, revealing thematic and narrative connections between films. By leveraging advanced NLP techniques and clustering, it offers insights into film genres and styles, for film enthusiasts, data scientists and linguists.
